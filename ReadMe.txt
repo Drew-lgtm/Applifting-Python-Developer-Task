@@ -1,9 +1,8 @@
-
 Read me file for Flask RestApi project for Applifting.
 Code in the project is based on Jose Salivierra's course on Udemy:https://www.udemy.com/course/rest-api-flask-and-python/
 
 Description:
-Simple Flask RestApi project used to create, read, update and delete records in the database. I recommend Postman 
+Simple Flask RestApi project used to create, read, update and delete records in the database. I recommend Postman. You will find the necessary modules in the reuirements.txt file. 
 
 
 How to run project:
