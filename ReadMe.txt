@@ -12,3 +12,5 @@ How to run project:
 4) Use Postman (or any simillar app) to test CRUD
 5) Use database software to check if all the changes were made to the database (use SQLite or any other database reader)
 6) Enjoy
+
+Uploaded to github via GIT.
