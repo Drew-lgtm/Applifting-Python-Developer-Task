@@ -14,3 +14,5 @@ How to run project:
 6) Enjoy
 
 Uploaded to github via GIT.
+
+Future plans: Implement JWT security using the flask_JWT_extended intead of flask_JWT
